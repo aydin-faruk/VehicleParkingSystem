@@ -1,0 +1,18 @@
+# Derleme (Build) dosyaları ve klasörleri
+bin/
+obj/
+artifacts/
+
+# Diğer build çıktı dosyaları (isteğe bağlı)
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Yayınlanan dosyalar
+publish/
+
+
+# VS Code klasörü ve ayarları
+.vscode/
+.vs/
